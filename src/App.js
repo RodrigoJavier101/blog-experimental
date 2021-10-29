@@ -13,7 +13,6 @@ function App() {
           // rel="noopener noreferrer"
           alt="logo"
         >
-          Learn React
         </a>
       </header>
     </div>
